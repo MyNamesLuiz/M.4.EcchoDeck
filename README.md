@@ -82,4 +82,4 @@ fixed-flashcards/
 - Remoção de cards com confirmação
 
 ##Link deploy:
-- https://m-4-eccho-deck.vercel.app/
+- [https://m-4-eccho-deck.vercel.app/](https://m-4-eccho-deck-sch5.vercel.app/)
