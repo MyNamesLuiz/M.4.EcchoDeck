@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "start": "node node_modules/json-server/bin/index.js --watch db.json --port 3001",
+    "start": "npx json-server --watch db.json --port 3001",
     "api": "json-server --watch db.json --port 3001"
   },
   "dependencies": {
