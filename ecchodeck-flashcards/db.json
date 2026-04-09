@@ -1,0 +1,44 @@
+{
+  "flashcards": [
+    {
+      "id": "1",
+      "question": "O que é repetição espaçada?",
+      "answer": "Técnica de estudo que revisa informações em intervalos crescentes de tempo para maximizar a retenção na memória de longo prazo.",
+      "masteryLevel": 3,
+      "createdAt": "2024-01-01T10:00:00.000Z",
+      "updatedAt": "2024-01-01T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "question": "O que é a curva do esquecimento de Ebbinghaus?",
+      "answer": "Modelo que mostra que esquecemos cerca de 70% do que aprendemos em 24h sem revisão. A revisão em momentos estratégicos reduz drasticamente essa perda.",
+      "masteryLevel": 2,
+      "createdAt": "2024-01-02T10:00:00.000Z",
+      "updatedAt": "2024-01-02T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "question": "Qual a diferença entre memória de trabalho e memória de longo prazo?",
+      "answer": "Memória de trabalho é temporária e limitada (7±2 itens). Memória de longo prazo é ilimitada e permanente. O estudo eficaz move informações da primeira para a segunda.",
+      "masteryLevel": 1,
+      "createdAt": "2024-01-03T10:00:00.000Z",
+      "updatedAt": "2024-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "question": "O que é o efeito de teste (test effect)?",
+      "answer": "Fenômeno onde tentar recuperar uma informação da memória (ao invés de apenas relê-la) fortalece significativamente o aprendizado. É a base dos flashcards.",
+      "masteryLevel": 4,
+      "createdAt": "2024-01-04T10:00:00.000Z",
+      "updatedAt": "2024-01-04T10:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "question": "O que significa 'interleaving' no contexto de estudo?",
+      "answer": "Prática de misturar diferentes tópicos ou tipos de problema durante o estudo, em vez de estudar um bloco de cada vez. Aumenta a dificuldade percebida mas melhora a retenção.",
+      "masteryLevel": 2,
+      "createdAt": "2024-01-05T10:00:00.000Z",
+      "updatedAt": "2024-01-05T10:00:00.000Z"
+    }
+  ]
+}
